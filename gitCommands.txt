@@ -14,10 +14,37 @@ Folder
   --touch .gitignore
   add secrets/sensitive files name in .gitignore.
 
+<<<<<<< HEAD
+=======
+------------------------------------------------------------
+>>>>>>> c5439f676b8b3d8b1f8bfecc2938472d06201006
 
 
 
 
+<<<<<<< HEAD
+=======
+  --git branch
+  --git brach newBranch
+  --git checkout newBranch
+  --git checkout master
+  --git merge newBranch
+  --:q!
+
+
+
+---------------------------------------------------------
+
+
+  # if git push doesn't work :
+    --git pull --rebose origin master
+    then git push;;;
+
+
+------------------------------------------------------------
+
+
+>>>>>>> c5439f676b8b3d8b1f8bfecc2938472d06201006
 
 
 
