@@ -1,0 +1,37 @@
+Folder
+  files
+  --git init
+  --git status  #.....Shows which files are in staging area         #WorkingDiret  stagingArea localRepository     RemoteRepository
+                                                                    #------------- ----------- ---------------     ---------------- 
+  --git add fileName/ git add .     #....Adds to staging area       # file  -> git add = ..... ->git commit = ..
+  --git commit -m "Message"    #....                                #                    --git checkout fileName
+                                                                    #                    goes back to lastcommit
+  --git log    #....logs the commits    
+
+  --git rm --cached -r .     #...removes all from stagingArea
+
+  
+  --touch .gitignore
+  add secrets/sensitive files name in .gitignore.
+
+
+
+
+
+
+
+
+
+         
+---------------------------------------
+    Remote Repo....
+---------------------------------------
+    git remote add origin ....link....
+    git push -u origin master
+
+----------------------------------------
+git remote set-url origin [repo-url]
+==>to edit an existing remote
+---------------------------------------
+git remote -v --- checks remote..
+---------------------------------------
